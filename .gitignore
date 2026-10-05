@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# IDE files
+.vscode/
+
+# Encrypted/decrypted test files
+test_files/
